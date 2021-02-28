@@ -17,6 +17,10 @@ namespace TCP_Haberlerşme
 {
     public partial class Form1 : Form
     {
+
+        /// <summary>
+        ///  ZCaner
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
